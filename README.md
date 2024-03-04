@@ -16,32 +16,61 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Karabo Edward Mokgatle**
+- **Date: 2024/03/04**
+- **Current Role/Position: Software Engineer Student**
+- **Field of Interest: Front End Development and AI engineering**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
+    - Interpersonal Skills.
+    - Computer Skills
+    - Critical Thinking Skills.
+    - Communication Skills
+      
     - Identify skills you need to develop or improve.
+    - HTML.
+    - CSS and Tailwind.
+    - JavaScript
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+    - My key interests revolve around developing innovative solutions to complex problems, designing and implementing efficient and scalable software systems
+      and continuously learning and applying new technologies to drive progree.
+      
     - What values are important to you in a work environment?
+    - Respect
+    - Intergrity
+    - Positive energies/Positive thoughts
+    - Clean Environment
+    - Team Work
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+    . I have explored roles such as software developer, machine learning, within industries including healthcare,
+      finance, and e-commerce.
+    
+    
+      
     - Note any particular areas that piqued your interest.
+    . I would be interested in industries such as healthcare, finance, and e-commerce,
+      where technology play a critical role in driving innovation and improving user exprience.
+      
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+    . Reflecting on these industries and roles, I find that my technical skills in software development, machine learning,
+      and cloud computing align well with the demands of these fields.
+       
     - Identify any gaps or areas for further exploration.
+    . I recognize a gap in my understanding of regulatory considerations and domain-specific challenges within presents an area for
+      further exploration and skill development. Overrall I am driven to persue a career that allows me to contribute with diverse teams,
+      and continue growing as a software engineer in a dynamic and forward-thinking environment.
 
 ### Part 3: SMART Career Goals
 
