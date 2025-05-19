@@ -27,7 +27,7 @@
         ~ Business models and structures need to be learned
 
 2. **Interests and Values**:
-    
+
 Interests that relate to my career goals are coming up with business solutions and innovations using web development, specifically for start-ups and small businesses, by creating and designing simple yet effective websites and landing pages.
     
 I value a work environment that values professionalism and allows creativity and individuality. A work environment that allows personal and professional growth is key to me, specifically.
@@ -35,7 +35,7 @@ I value a work environment that values professionalism and allows creativity and
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
-    
+
 I've researched and been part of many industries for my age and gained quite the insight on how software development and web development can improve these industries and businesses as well.
 
 Here is a list of industries I've been in:
