@@ -39,10 +39,11 @@ I value a work environment that values professionalism and allows creativity and
 I've researched and been part of many industries for my age and gained quite the insight on how software development and web development can improve these industries and businesses as well.
 
 Here is a list of industries I've been in:
+
     ~Retail - I was a seasonal employee at Footgear, and my roles were merchandising and sales
-
+    
     ~ Transport - I was a driver for BuDDys, which is a company which transported people home after hours in their own vehicles after they had a night out.
-
+    
     ~ Logistics - I was a courier for Lancet Laboratories for 4 months and then got promoted to Courier Co-ordinator where my role changed to overseeing the couriers and assigning them tasks as well as taking inbound calls to assist and recieve collection details from various doctors and medical facilities and then assigning couriers to these calls. A very high pressure environment.
 
 What piqued my interest were the number of businesses and start-ups including medical practices which don't have websites or have outdated or poorly designed websites. Another thing that interest me was how simple web applications or software applications could drastically improve these industries if they integrate some automation into them.
