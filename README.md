@@ -73,7 +73,7 @@ Areas that need to be explored in the majority of businesses and industries, in 
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Continue to complete tasks and practice coding to complete the qualification at Codespace
+    - Continue to complete tasks and practice coding to complete the qualification at Codespace
 
     - Build a portfolio and include the 2-3 demo websites needed to showcase my skills and abilities. This will require hosting as well as multiple tools such as Figma and VS Code.
 
