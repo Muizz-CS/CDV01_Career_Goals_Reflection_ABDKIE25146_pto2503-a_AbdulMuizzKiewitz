@@ -49,7 +49,7 @@ Here are industries I've been in:
 What piqued my interest were the number of businesses and start-ups including medical practices which don't have websites or have outdated or poorly designed websites. Another thing that interest me was how simple web applications or software applications could drastically improve these industries if they integrate some automation into them.
 
 2. **Alignment with Personal Profile**:
-    
+
 These industries have have taught me that no matter the field you in or the industry you are in, using software applications to improve productivity and workflow is a must but majority of them are still using outdated or very demanding software solutions which really aligned with me because I tend to think of easier or more simple ways to come up with solutions for problems that have arised or are reacurring.
 
 Areas that need to be explored in the majority of businesses and industries, in my opinion, are automated solutions. This can be a big game changer, in my opinion, and it is something I will be looking into because businesses and specific industries can increase productivity and customer satisfaction by automating certain aspects within their systems. This is a gap which I think will gradually be filled shortly, and is very exciting for us as developers as well as businesses looking to improve.
