@@ -13,13 +13,15 @@
 1. **Skills Analysis**:
     
     - Current skills that I've obtained:
+
         ~ Basic HTML5 and CSS
         ~ Customer service
         ~ Customer support
         ~ Sales 
         ~ Telephone etiquette
 
-    - Skills that need to be improved and gained
+    - Skills that need to be improved and gained:
+
         ~ CSS needs to be improved
         ~ JavaScript needs to be learned
         ~ Business models and structures need to be learned
