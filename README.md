@@ -38,9 +38,9 @@ I value a work environment that values professionalism and allows creativity and
 
 I've researched and been part of many industries for my age and gained quite the insight on how software development and web development can improve these industries and businesses as well.
 
-Here is a list of industries I've been in:
+Here are industries I've been in:
 
-    ~Retail: I was a seasonal employee at Footgear, and my roles were merchandising and sales
+    ~ Retail: I was a seasonal employee at Footgear, and my roles were merchandising and sales
     
     ~ Transport: I was a driver for BuDDys, which is a company which transported people home after hours in their own vehicles after they had a night out.
     
